@@ -1,4 +1,20 @@
-MIT License
+Dies ist die Lizenz für dieses Repo
+
+Kurzfassung (menschlich verständlich):
+- Du darfst alles Mögliche mit diesem Code anstellen: anschauen, kopieren, forken, verbessern, verunstalten, zusammenkleben, veröffentlichen, verkaufen, auf T-Shirts drucken oder deiner Katze vorlesen.
+- Bitte lass den Copyright-Hinweis drin, damit zukünftige Generationen wissen, wem sie danken (oder wen sie verfluchen) dürfen.
+- Wenn dein Toaster damit plötzlich Python kann oder deine Hausarbeit sich selbst schreibt: cool! Wenn dabei aber irgendwas brennt, piept, abstürzt oder der Prof plötzlich streng guckt: das ist dein Abenteuer, nicht unseres.
+- Pull Requests, Issues und nette Worte sind willkommen. Schlechte Witze auch, solange sie syntaktisch korrekt sind.
+
+Disclaimer:
+- Dieses Repo enthält Lerncode. Er ist so „as-is“, wie `print("Hello, World")` kurz ist.
+- Wenn du’s produktiv einsetzt, testest du selbst. Wenn du’s in der Klausur einsetzt, testest du dein Glück.
+
+Bei Konflikten oder Auslegungsschwierigkeiten gilt IMMER die juristische Langfassung unten (originale MIT-Lizenz, unverändert). 
+
+────────────────────────────────────────────────────────────────────────
+
+MIT License (juristisch bindend, unverändert)
 
 Copyright (c) 2025 KsP-FOMS-25
 
